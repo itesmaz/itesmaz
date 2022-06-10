@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @itesmaz
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Discord.js
 - 🌱 I’m currently learning JavaScript
